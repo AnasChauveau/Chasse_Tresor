@@ -1,0 +1,10 @@
+Ceci est l'explication du projet (06/05/2021):
+
+J'avais au départ l'intention de faire apparaitre une image différente pour chaque évenement à la place du 
+crâne avec la pipe, mais par manque de temps (car je m'y suis pris un peu tard) et par doute du fait
+que cette idée sois intéréssente j'ai décidé de laisser tomber ce projet.
+
+Cela explique pourquoi il y a plein d'image non utiliser.
+
+Les maquettes sont mes idées de départ, mais au cours de l'écriture du code, j'ai abandonnée certaine
+idée qui me demanderais plus de temps.
